@@ -1,6 +1,3 @@
-package hw4;
-
-
 public class Enrollment{
 	
 	private String grade;
