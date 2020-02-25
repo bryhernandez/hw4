@@ -1,5 +1,3 @@
-package hw4;
-
 public class Instructor{
 	
 	private int ID;
